@@ -1,4 +1,4 @@
-# 💫 I am Nevin Vinod:
+# 💫 Hi, I am Nevin Vinod
 🎓 Electronics & Communication Engineering student<br>💻 Passionate about Embedded Systems, Web Development, AI, Cybersecurity, Networking<br>🌱 Currently learning Python, C<br>⚡ I love building projects that solve real-world problems<br>📫 Reach me at: nevinvinod2003@gmail.com
 
 
